@@ -41,9 +41,9 @@
     color: #575757;
  }
 /* phone */
-@media (max-width:767px) {
+@media (max-width:400px) {
    .main { 
-      width: 400px;
+      width: 100svw;
    }
     .listProduct {
         grid-template-columns: repeat(2, 1fr);
